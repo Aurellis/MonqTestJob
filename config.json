@@ -1,0 +1,7 @@
+{
+  "ConnectionString": "Server=ServerHost\\SqlServer;Database=MonqTestJobDB;User ID=DataBaseUser;Password=DataBaseUserPassword;",
+  "SmtpHost": "smtp.yandex.ru",
+  "SmtpPort": "587",
+  "SmtpLogin": "",
+  "SmtpPassword": ""
+}
